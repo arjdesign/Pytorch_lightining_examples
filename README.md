@@ -1,7 +1,7 @@
 # Pytorch_lightining_examples
 
-I have attempted to created exact same example in both pytorch and Pytorch_lightning.
-Pytorch lightning is a design pattern that aims to standardize ML models building process. Yoo can find more about 
+I have attempted to replicate a model in both pytorch and Pytorch_lightning.
+Pytorch lightning is a design pattern that aims to standardize ML models building process. You can find more about 
 it in the link below.
 
 Documenation:
